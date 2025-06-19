@@ -35,9 +35,6 @@
 
 ## 👋 About Me
 
-<details>
-<summary>Click to expand!</summary>
-
 I am S. M. Mohiuddin Khan Shiam, a dedicated individual with a strong passion for using technology and innovation to improve society. My pursuits go beyond academics and include a deep interest in research, social service, and contributing to global progress.
 
 Since childhood, my curiosity about technology and space has fueled my drive to explore and innovate. I am committed to supporting the United Nations Sustainable Development Goals, focusing on critical areas such as education, health, human rights, environmental protection, and animal welfare. By integrating multidisciplinary knowledge and critical thinking, I aspire to create meaningful solutions that make a positive impact.
@@ -49,8 +46,6 @@ I owe my achievements to the support and guidance of my parents, siblings, and t
 In my leisure time, I enjoy traveling, playing football, and immersing myself in the magical world of Harry Potter. These activities bring joy and allow me to reflect on the lessons I have learned through my struggles, which have strengthened my character and resolve.
 
 I believe in the potential of human kindness and the transformative power of innovation to create a better future. I look forward to connecting with individuals who share the vision of building a brighter, more equitable world.
-
-</details>
 
 ---
 
@@ -64,31 +59,36 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
 ## 🛠️ My Skill Set
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <!-- Add more badges as needed -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-<details>
-<summary>Core Areas of Interest & Expertise</summary>
-
 - Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Quantum Computing & Quantum Machine Learning
-- Blockchain
-- Natural Language Processing (NLP)
 - Bioinformatics
-- Internet of Things (IoT)
-- Software Engineering
+- Blockchain
 - Ethical Hacking
 - High-Performance Computing (HPC)
-</details>
+- Internet of Things (IoT)
+- Machine Learning (ML)
+- Natural Language Processing (NLP)
+- Quantum Computing & Quantum Machine Learning
+- Software Engineering
 
 ---
 
@@ -109,10 +109,6 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&margin-w=15&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/mohiuddin-khan-shiam/mohiuddin-khan-shiam/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
