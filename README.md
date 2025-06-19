@@ -91,7 +91,16 @@ I believe in the potential of human kindness and the transformative power of inn
 </p>
 
 <p align="center">
-Artificial Intelligence (AI) • Bioinformatics • Blockchain • Ethical Hacking • High-Performance Computing (HPC) • Internet of Things (IoT) • Machine Learning (ML) • Natural Language Processing (NLP) • Quantum Computing & Quantum Machine Learning • Software Engineering
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence%20(AI)-purple?style=for-the-badge&logo=ai"/>
+  <img src="https://img.shields.io/badge/-Bioinformatics-brightgreen?style=for-the-badge&logo=dna"/>
+  <img src="https://img.shields.io/badge/-Blockchain-2c3e50?style=for-the-badge&logo=blockchain-dot-com"/>
+  <img src="https://img.shields.io/badge/-Ethical%20Hacking-black?style=for-the-badge&logo=hackthebox"/>
+  <img src="https://img.shields.io/badge/-HPC-blue?style=for-the-badge&logo=superuser"/>
+  <img src="https://img.shields.io/badge/-IoT-orange?style=for-the-badge&logo=raspberrypi"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/-NLP-ff69b4?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/-Quantum%20Computing-00bfff?style=for-the-badge&logo=quora"/>
+  <img src="https://img.shields.io/badge/-Software%20Engineering-9b59b6?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
