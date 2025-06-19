@@ -115,7 +115,7 @@ Artificial Intelligence (AI) • Bioinformatics • Blockchain • Ethical Hacki
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&theme=onedark&margin-w=15&column=8&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&margin-w=15&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
