@@ -33,7 +33,10 @@
 
 ---
 
-## 👋 About Me
+<p align="center">
+  <a name="about"></a>
+  <strong style="font-size:2em;">👋 About Me</strong>
+</p>
 
 I am S. M. Mohiuddin Khan Shiam, a dedicated individual with a strong passion for using technology and innovation to improve society. My pursuits go beyond academics and include a deep interest in research, social service, and contributing to global progress.
 
@@ -49,14 +52,22 @@ I believe in the potential of human kindness and the transformative power of inn
 
 ---
 
-## 🚀 Featured Project
+<p align="center">
+  <a name="project"></a>
+  <strong style="font-size:2em;">🚀 Featured Project</strong>
+</p>
 
-### [SkillShikhi](https://github.com/mohiuddin-khan-shiam/SkillShikhi)
-A platform for skill sharing and learning built with Next.js and MongoDB, following MVC architecture.
+<p align="center">
+  <a href="https://github.com/mohiuddin-khan-shiam/SkillShikhi"><strong>SkillShikhi</strong></a><br>
+  A platform for skill sharing and learning built with Next.js and MongoDB, following MVC architecture.
+</p>
 
 ---
 
-## 🛠️ My Skill Set
+<p align="center">
+  <a name="skills"></a>
+  <strong style="font-size:2em;">🛠️ My Skill Set</strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -79,20 +90,16 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-- Artificial Intelligence (AI)
-- Bioinformatics
-- Blockchain
-- Ethical Hacking
-- High-Performance Computing (HPC)
-- Internet of Things (IoT)
-- Machine Learning (ML)
-- Natural Language Processing (NLP)
-- Quantum Computing & Quantum Machine Learning
-- Software Engineering
+<p align="center">
+Artificial Intelligence (AI) • Bioinformatics • Blockchain • Ethical Hacking • High-Performance Computing (HPC) • Internet of Things (IoT) • Machine Learning (ML) • Natural Language Processing (NLP) • Quantum Computing & Quantum Machine Learning • Software Engineering
+</p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+<p align="center">
+  <a name="stats"></a>
+  <strong style="font-size:2em;">📊 GitHub Stats & Activity</strong>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohiuddin-khan-shiam&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
@@ -113,7 +120,10 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
 
 ---
 
-## 🤝 Connect with Me
+<p align="center">
+  <a name="connect"></a>
+  <strong style="font-size:2em;">🤝 Connect with Me</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s-m-mohiuddin-khan-shiam/" target="_blank">
