@@ -38,17 +38,15 @@
   <strong style="font-size:2em;">👋 About Me</strong>
 </p>
 
-I am S. M. Mohiuddin Khan Shiam, a dedicated individual with a strong passion for using technology and innovation to improve society. My pursuits go beyond academics and include a deep interest in research, social service, and contributing to global progress.
+Hi! I’m S. M. Mohiuddin Khan Shiam. I love using technology to help people and make the world a better place. I’m interested in research, learning new things, and helping my community.
 
-Since childhood, my curiosity about technology and space has fueled my drive to explore and innovate. I am committed to supporting the United Nations Sustainable Development Goals, focusing on critical areas such as education, health, human rights, environmental protection, and animal welfare. By integrating multidisciplinary knowledge and critical thinking, I aspire to create meaningful solutions that make a positive impact.
+Since I was a child, I’ve been curious about technology and space. I want to use my skills to support important causes like education, health, human rights, protecting the environment, and caring for animals. I believe that by learning about different subjects and thinking carefully, I can help solve real problems.
 
-In my journey, I have gained leadership, communication, and strategic planning skills through various professional and extracurricular roles. These experiences have taught me the importance of collaboration, adaptability, and continuous learning. I believe challenges offer valuable lessons and that true education reflects in how we behave and interact with others.
+I’ve learned a lot about leadership, teamwork, and planning by working on different projects and activities. These experiences taught me to work well with others, adapt to new situations, and keep learning. I think challenges help us grow, and real education shows in how we treat people.
 
-I owe my achievements to the support and guidance of my parents, siblings, and teachers, who have been a constant source of encouragement. Their values have shaped me into a humble and driven individual who believes in the power of perseverance and kindness.
+My family and teachers have always supported me, and their advice has helped me become a kind and determined person. In my free time, I enjoy traveling, playing football, and reading Harry Potter books. These hobbies make me happy and help me learn from my experiences.
 
-In my leisure time, I enjoy traveling, playing football, and immersing myself in the magical world of Harry Potter. These activities bring joy and allow me to reflect on the lessons I have learned through my struggles, which have strengthened my character and resolve.
-
-I believe in the potential of human kindness and the transformative power of innovation to create a better future. I look forward to connecting with individuals who share the vision of building a brighter, more equitable world.
+I believe that kindness and new ideas can change the world. I’m excited to meet others who also want to make the world a better place.
 
 ---
 
