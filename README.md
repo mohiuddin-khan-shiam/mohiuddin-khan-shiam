@@ -25,33 +25,26 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-- 🔭 I’m currently working on **AI Projects**  
-- 🌱 I’m currently learning **Quantum Computing**, **Quantum Machine Learning**, **Blockchain**, **Natural Language Processing**, **Bioinformatics**, **Internet of Things (IoT)**, **Software Engineering**, **Ethical Hacking**, and **High-Performance Computing**  
-- 👨‍🎓 I studied **Computer Science** at **BRAC University**  
-- 💬 Ask me about **AI**, **Machine Learning**  
-- 📫 How to reach me: **[contact.shiam@gmail.com](mailto:contact.shiam@gmail.com)**  
-- ⚡ Fun fact: I’m always excited to learn cutting-edge technologies and apply them in real-life projects!
+I am S. M. Mohiuddin Khan Shiam, a dedicated individual with a strong passion for using technology and innovation to improve society. My pursuits go beyond academics and include a deep interest in research, social service, and contributing to global progress.
+
+Since childhood, my curiosity about technology and space has fueled my drive to explore and innovate. I am committed to supporting the United Nations Sustainable Development Goals, focusing on critical areas such as education, health, human rights, environmental protection, and animal welfare. By integrating multidisciplinary knowledge and critical thinking, I aspire to create meaningful solutions that make a positive impact.
+
+In my journey, I have gained leadership, communication, and strategic planning skills through various professional and extracurricular roles. These experiences have taught me the importance of collaboration, adaptability, and continuous learning. I believe challenges offer valuable lessons and that true education reflects in how we behave and interact with others.
+
+I owe my achievements to the support and guidance of my parents, siblings, and teachers, who have been a constant source of encouragement. Their values have shaped me into a humble and driven individual who believes in the power of perseverance and kindness.
+
+In my leisure time, I enjoy traveling, playing football, and immersing myself in the magical world of Harry Potter. These activities bring joy and allow me to reflect on the lessons I have learned through my struggles, which have strengthened my character and resolve.
+
+I believe in the potential of human kindness and the transformative power of innovation to create a better future. I look forward to connecting with individuals who share the vision of building a brighter, more equitable world.
 
 ---
 
-## Connect with Me
+## 🚀 Featured Project
 
-<p>
-  <a href="https://www.linkedin.com/in/s-m-mohiuddin-khan-shiam/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/mohiuddin-khan-shiam" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
-  </a>
-  <a href="mailto:contact.shiam@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" height="40"/>
-  </a>
-  <a href="https://mohiuddin-khan-shiam.github.io" target="_blank">
-    <img src="https://img.icons8.com/dusk/64/000000/domain.png" width="40" height="40"/>
-  </a>
-</p>
+### [SkillShikhi](https://github.com/mohiuddin-khan-shiam/SkillShikhi)
+A platform for skill sharing and learning built with Next.js and MongoDB, following MVC architecture.
 
 ---
 
@@ -80,6 +73,25 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <!-- Add any other relevant icons/tools -->
+</p>
+
+---
+
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/s-m-mohiuddin-khan-shiam/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/mohiuddin-khan-shiam" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:contact.shiam@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" height="40"/>
+  </a>
+  <a href="https://mohiuddin-khan-shiam.github.io" target="_blank">
+    <img src="https://img.icons8.com/dusk/64/000000/domain.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
