@@ -3,10 +3,12 @@
   Customize any section as needed!
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/mohiuddin-khan-shiam">Shiam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7AFB8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiam!;AI+Enthusiast+%26+Researcher;Open+Source+Contributor;Always+Learning+Something+New!"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7AFB8&size=22&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%26+Researcher;Currently+Working+on+AI+Projects;Always+Learning+Something+New!">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Let's%20Innovate%20Together!&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -15,6 +17,12 @@
   </a>
   <a href="https://www.linkedin.com/in/s-m-mohiuddin-khan-shiam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:contact.shiam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=social" alt="Gmail Badge">
+  </a>
+  <a href="https://mohiuddin-khan-shiam.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&style=social" alt="Portfolio Badge">
   </a>
 </p>
 
@@ -26,6 +34,9 @@
 ---
 
 ## 👋 About Me
+
+<details>
+<summary>Click to expand!</summary>
 
 I am S. M. Mohiuddin Khan Shiam, a dedicated individual with a strong passion for using technology and innovation to improve society. My pursuits go beyond academics and include a deep interest in research, social service, and contributing to global progress.
 
@@ -39,6 +50,8 @@ In my leisure time, I enjoy traveling, playing football, and immersing myself in
 
 I believe in the potential of human kindness and the transformative power of innovation to create a better future. I look forward to connecting with individuals who share the vision of building a brighter, more equitable world.
 
+</details>
+
 ---
 
 ## 🚀 Featured Project
@@ -48,9 +61,22 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
 
 ---
 
-## My Skill Set
+## 🛠️ My Skill Set
 
-**Core Areas of Interest & Expertise:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <!-- Add more badges as needed -->
+</p>
+
+<details>
+<summary>Core Areas of Interest & Expertise</summary>
 
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
@@ -62,24 +88,38 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
 - Software Engineering
 - Ethical Hacking
 - High-Performance Computing (HPC)
+</details>
 
-**Languages & Tools** (just a few examples):
+---
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <!-- Add any other relevant icons/tools -->
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohiuddin-khan-shiam&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohiuddin-khan-shiam&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin-khan-shiam&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohiuddin-khan-shiam&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&margin-w=15&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mohiuddin-khan-shiam/mohiuddin-khan-shiam/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/s-m-mohiuddin-khan-shiam/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40"/>
   </a>
@@ -92,27 +132,6 @@ A platform for skill sharing and learning built with Next.js and MongoDB, follow
   <a href="https://mohiuddin-khan-shiam.github.io" target="_blank">
     <img src="https://img.icons8.com/dusk/64/000000/domain.png" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohiuddin-khan-shiam&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohiuddin-khan-shiam&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin-khan-shiam&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&margin-w=15&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
