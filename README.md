@@ -183,15 +183,6 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 </p>
 
 
-
-<!-- Programming Languages Usage -->
-<p align="center">
-  <strong>📈 Language Statistics</strong>
-</p>
-<p align="center">
-  <img src="metrics/languages.svg" alt="Language Metrics" />
-</p>
-
 ---
 
 
@@ -235,15 +226,6 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
   <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&theme=onedark&column=-1&margin-w=10&margin-h=10&no-frame=false&no-bg=false&v=TIMESTAMP" alt="GitHub Trophies" />
 </p>
 
-
-
-<!-- Coding Activity Details -->
-<p align="center">
-  <strong>💻 Coding Activity</strong>
-</p>
-<p align="center">
-  <img src="metrics/lines.svg" alt="Lines of Code Metrics" />
-</p>
 
 ---
 
