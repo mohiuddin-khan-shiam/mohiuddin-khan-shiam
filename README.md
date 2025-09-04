@@ -195,20 +195,6 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 
 
-<!-- GitHub Metrics Section -->
-<p align="center">
-  <a name="metrics"></a>
-  <strong style="font-size:1.5em;">📊 Detailed GitHub Metrics</strong>
-</p>
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
----
-
-
 <!-- Connect Section: Beautiful and interactive social links -->
 <p align="center">
   <a name="connect"></a>
@@ -279,6 +265,20 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=orange&label=Profile+Views" alt="Profile Views" />
 </p>
+
+---
+
+
+<!-- GitHub Metrics Section -->
+<p align="center">
+  <a name="metrics"></a>
+  <strong style="font-size:1.5em;">📊 Detailed GitHub Metrics</strong>
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 
 ---
 
