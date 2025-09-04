@@ -250,6 +250,28 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 ---
 
+---
+
+<!-- Snake Animation Section -->
+<p align="center">
+  <a name="snake"></a>
+  <strong style="font-size:1.5em;">🐍 Watch My Contribution Graph Get Eaten By The Snake</strong>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohiuddin-khan-shiam/mohiuddin-khan-shiam/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohiuddin-khan-shiam/mohiuddin-khan-shiam/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mohiuddin-khan-shiam/mohiuddin-khan-shiam/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+
+
+
+
 <!-- 
   Thank you for visiting my profile README!
   This README includes organized sections for skills, detailed GitHub statistics,
