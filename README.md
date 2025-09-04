@@ -239,16 +239,6 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
   <img src="https://img.shields.io/badge/Ask%20Me%20About-AI%20%7C%20Research%20%7C%20Open%20Source-blue?style=for-the-badge"/>
 </p>
 
----
-
-<!-- Profile visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=orange&label=Profile+Views" alt="Profile Views" />
-</p>
-
-
-
----
 
 ---
 
@@ -269,8 +259,12 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 ---
 
 
+<!-- Profile visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=orange&label=Profile+Views" alt="Profile Views" />
+</p>
 
-
+---
 
 <!-- 
   Thank you for visiting my profile README!
