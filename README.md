@@ -241,13 +241,11 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 ---
 
-<!-- Profile visitor counter and coding stats -->
+<!-- Profile visitor counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-  <a href="https://wakatime.com/@mohiuddin-khan-shiam">
-    <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="Wakatime Stats" />
-  </a>
 </p>
+
 
 
 ---
