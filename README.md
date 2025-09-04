@@ -193,7 +193,22 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 ---
 
-<!-- Enhanced Connect Section: Beautiful and interactive social links -->
+
+
+<!-- GitHub Metrics Section -->
+<p align="center">
+  <a name="metrics"></a>
+  <strong style="font-size:1.5em;">📊 Detailed GitHub Metrics</strong>
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+
+<!-- Connect Section: Beautiful and interactive social links -->
 <p align="center">
   <a name="connect"></a>
   <strong style="font-size:2em;">🤝 Connect with Me</strong>
