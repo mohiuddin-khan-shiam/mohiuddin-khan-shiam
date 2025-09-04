@@ -121,12 +121,24 @@ I believe that kindness and new ideas can change the world. I’m excited to mee
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohiuddin-khan-shiam&theme=radical"/>
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&theme=onedark&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Repositories,Commit,PullRequest,Followers,Experience,Stars&v=3" 
-    alt="GitHub Trophies" 
-  />
-</p>
+
+
+
+
+
+
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&theme=onedark&column=-1&margin-w=10&margin-h=10&no-frame=false&no-bg=false&v=TIMESTAMP"
+        alt="GitHub Trophies"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
