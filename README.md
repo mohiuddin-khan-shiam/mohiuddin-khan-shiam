@@ -54,6 +54,8 @@ My family and teachers have always supported me, and their advice has helped me 
 
 I believe that kindness and new ideas can change the world. I'm excited to meet others who also want to make the world a better place.
 
+
+
 ---
 
 <!-- Featured Project Section: Highlighting main project -->
@@ -84,6 +86,8 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -118,18 +122,33 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 <p align="center">
   <strong>🔬 Research & Technology Domains</strong>
 </p>
+
+<!-- AI & Machine Learning Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence%20(AI)-purple?style=for-the-badge&logo=ai"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/-Bioinformatics-brightgreen?style=for-the-badge&logo=dna"/>
-  <img src="https://img.shields.io/badge/-NLP-ff69b4?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/-Quantum%20Computing-00bfff?style=for-the-badge&logo=quora"/>
-  <img src="https://img.shields.io/badge/-Blockchain-2c3e50?style=for-the-badge&logo=blockchain-dot-com"/>
-  <img src="https://img.shields.io/badge/-IoT-orange?style=for-the-badge&logo=raspberrypi"/>
-  <img src="https://img.shields.io/badge/-HPC-blue?style=for-the-badge&logo=superuser"/>
-  <img src="https://img.shields.io/badge/-Ethical%20Hacking-black?style=for-the-badge&logo=hackthebox"/>
-  <img src="https://img.shields.io/badge/-Software%20Engineering-9b59b6?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-9b59b6?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-f39c12?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NLP-e91e63?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
+
+<!-- Computational Sciences Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Bioinformatics-27ae60?style=for-the-badge&logo=dna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Quantum%20Computing-3498db?style=for-the-badge&logo=atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HPC-2c3e50?style=for-the-badge&logo=superuser&logoColor=white"/>
+</p>
+
+<!-- Technology & Security Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Blockchain-34495e?style=for-the-badge&logo=blockchain-dot-com&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IoT-e67e22?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ethical%20Hacking-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
+
+<!-- Software Engineering Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Software%20Engineering-8e44ad?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -222,10 +241,14 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 ---
 
-<!-- Profile visitor counter -->
+<!-- Profile visitor counter and coding stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <a href="https://wakatime.com/@mohiuddin-khan-shiam">
+    <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="Wakatime Stats" />
+  </a>
 </p>
+
 
 ---
 
