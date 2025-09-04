@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mohiuddin-khan-shiam
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Dhaka
+          
+          # Add some popular plugins
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_stargazers: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
