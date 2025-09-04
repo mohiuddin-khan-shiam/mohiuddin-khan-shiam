@@ -243,7 +243,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <!-- Profile visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohiuddin-khan-shiam&style=for-the-badge&color=orange&label=Profile+Views" alt="Profile Views" />
 </p>
 
 
