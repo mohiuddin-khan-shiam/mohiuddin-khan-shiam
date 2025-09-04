@@ -9,6 +9,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Let's%20Innovate%20Together!&descAlignY=60"/>
 </p>
 
+<!-- GitHub Header Metrics -->
+<p align="center">
+  <img src="metrics/header.svg" alt="GitHub Header Metrics" />
+</p>
+
 <!-- Dynamic typing animation with key highlights -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7AFB8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiam!;AI+Enthusiast+%26+Researcher;Open+Source+Contributor;Always+Learning+Something+New!"/>
