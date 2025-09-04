@@ -122,7 +122,7 @@ I believe that kindness and new ideas can change the world. I’m excited to mee
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&margin-w=4&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohiuddin-khan-shiam&margin-w=15&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
