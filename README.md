@@ -274,19 +274,6 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 ---
 
 
-<!-- GitHub Metrics Section -->
-<p align="center">
-  <a name="metrics"></a>
-  <strong style="font-size:1.5em;">📊 Detailed GitHub Metrics</strong>
-</p>
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
----
-
 <!-- 
   Thank you for visiting my profile README!
   This README includes organized sections for skills, detailed GitHub statistics,
