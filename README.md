@@ -66,6 +66,162 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 ---
 
+<!-- Open Source Contributions Section -->
+<p align="center">
+  <a name="contributions"></a>
+  <strong style="font-size:2em;">🌟 Open Source Contributions</strong>
+</p>
+
+<p align="center">
+  <em>Contributing to the global developer community through meaningful code contributions</em><br>
+  <img src="https://img.shields.io/badge/Total%20Organizations-11-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Major%20Projects-17-blue?style=for-the-badge"/>
+</p>
+
+### 🏢 **Microsoft Ecosystem**
+<p align="left">
+  <a href="https://github.com/microsoft/vscode">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  </a>
+  <a href="https://github.com/microsoft/terminal">
+    <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white"/>
+  </a>
+  <a href="https://github.com/microsoft/WSL">
+    <img src="https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+  </a>
+  <a href="https://github.com/microsoft/PowerToys">
+    <img src="https://img.shields.io/badge/PowerToys-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/microsoft/autogen">
+    <img src="https://img.shields.io/badge/AutoGen-FF6B35?style=flat-square&logo=microsoft&logoColor=white"/>
+  </a>
+  <a href="https://github.com/microsoft/vcpkg">
+    <img src="https://img.shields.io/badge/vcpkg-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/>
+  </a>
+  <a href="https://github.com/microsoft/winget-cli">
+    <img src="https://img.shields.io/badge/WinGet-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  </a>
+</p>
+
+### 🤖 **Machine Learning & AI**
+<p align="left">
+  <a href="https://github.com/scikit-learn/scikit-learn">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  </a>
+  <a href="https://github.com/keras-team/keras">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ultralytics/ultralytics">
+    <img src="https://img.shields.io/badge/Ultralytics-00C4CC?style=flat-square&logo=yolo&logoColor=white"/>
+  </a>
+  <a href="https://github.com/openvinotoolkit/openvino">
+    <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white"/>
+  </a>
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p align="left">
+  <a href="https://github.com/kubernetes/kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kubernetes/kops">
+    <img src="https://img.shields.io/badge/Kops-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  </a>
+  <a href="https://github.com/apache/airflow">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fluxcd/flux2">
+    <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white"/>
+  </a>
+</p>
+
+### 🧬 **Computational Biology & Research**
+<p align="left">
+  <a href="https://github.com/jwohlwend/boltz">
+    <img src="https://img.shields.io/badge/Boltz-FF6B6B?style=flat-square&logo=dna&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ManimCommunity/manim">
+    <img src="https://img.shields.io/badge/Manim-FF6C37?style=flat-square&logo=python&logoColor=white"/>
+  </a>
+</p>
+
+### 📚 **Education & Algorithms**
+<p align="left">
+  <a href="https://github.com/TheAlgorithms/Python">
+    <img src="https://img.shields.io/badge/The%20Algorithms-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🏆 Category</th>
+        <th>📊 Projects</th>
+        <th>🌐 Impact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Microsoft Tools</strong></td>
+        <td>7 Major Projects</td>
+        <td>Developer Productivity & Windows Ecosystem</td>
+      </tr>
+      <tr>
+        <td><strong>AI/ML Frameworks</strong></td>
+        <td>4 Core Libraries</td>
+        <td>Machine Learning & Computer Vision</td>
+      </tr>
+      <tr>
+        <td><strong>Cloud Infrastructure</strong></td>
+        <td>4 DevOps Tools</td>
+        <td>Container Orchestration & Workflows</td>
+      </tr>
+      <tr>
+        <td><strong>Research & Education</strong></td>
+        <td>3 Specialized Tools</td>
+        <td>Scientific Computing & Learning</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-❤️%20Contributor-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Community-Driven%20Development-green?style=for-the-badge"/>
+</p>
+
+<details>
+<summary><b>🔍 View Detailed Contribution Areas</b></summary>
+
+**Developer Tools & Productivity:**
+- **VS Code**: Enhanced editor functionality and extensions
+- **Terminal**: Improved Windows terminal experience  
+- **WSL**: Better Linux subsystem integration
+- **PowerToys**: Windows productivity utilities
+
+**AI & Machine Learning:**
+- **scikit-learn**: Core ML algorithm implementations
+- **Keras**: Deep learning model architectures
+- **Ultralytics**: Computer vision and YOLO improvements
+- **OpenVINO**: AI inference optimization
+
+**Infrastructure & DevOps:**
+- **Kubernetes**: Container orchestration enhancements
+- **Apache Airflow**: Workflow management improvements
+- **Flux**: GitOps and continuous deployment
+
+**Research & Education:**
+- **The Algorithms**: Educational algorithm implementations
+- **Manim**: Mathematical animation library
+- **Boltz**: Biomolecular interaction modeling
+
+</details>
+
+---
+
 
 
 <!-- GitHub Activity -->
