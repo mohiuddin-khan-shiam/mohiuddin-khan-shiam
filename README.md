@@ -69,6 +69,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 
 
+
 ---
 <!-- Open Source Contributions Section -->
 
@@ -142,7 +143,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
           <a href="https://github.com/microsoft/PowerToys">
-            <img src="https://raw.githubusercontent.com/microsoft/PowerToys/main/assets/images/icons/PowerToys.svg" width="60" height="60"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/PowerToys_logo.svg" width="60" height="60"/>
           </a>
         </td>
         <td style="padding: 10px; vertical-align: middle; text-align:center;">
@@ -299,7 +300,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
           <a href="https://github.com/kubernetes/kops">
-            <img src="https://raw.githubusercontent.com/kubernetes/kops/main/logo/logo-dimension.png" width="60" height="60"/>
+            <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60"/>
           </a>
         </td>
         <td style="padding: 10px; vertical-align: middle; text-align:center;">
@@ -314,7 +315,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
           <a href="https://github.com/apache/airflow">
-            <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="60" height="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" height="60"/>
           </a>
         </td>
         <td style="padding: 10px; vertical-align: middle; text-align:center;">
@@ -402,6 +403,8 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 </div>
 
 ---
+
+
 
 
 
