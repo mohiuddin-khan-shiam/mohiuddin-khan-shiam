@@ -65,7 +65,6 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 
 ---
-
 <!-- Open Source Contributions Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=Open%20Source%20Contributions&fontSize=35&fontAlignY=35&desc=Building%20the%20Future%20Together&descAlignY=60&fontColor=ffffff"/>
@@ -104,6 +103,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
           <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
           <br><strong>VS Code</strong>
           <br><sub>Code Editor</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/vscode?style=social"/>
         </a>
       </td>
       <td align="center" width="150">
@@ -111,6 +111,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
           <img src="https://raw.githubusercontent.com/microsoft/terminal/main/res/terminal.ico" width="65" height="65"/>
           <br><strong>Terminal</strong>
           <br><sub>Command Line</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/terminal?style=social"/>
         </a>
       </td>
       <td align="center" width="150">
@@ -118,13 +119,15 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65"/>
           <br><strong>WSL</strong>
           <br><sub>Linux Subsystem</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/WSL?style=social"/>
         </a>
       </td>
       <td align="center" width="150">
         <a href="https://github.com/microsoft/PowerToys">
-          <img src="https://github.com/microsoft/PowerToys/raw/main/src/runner/PowerToys.exe.manifest" width="65" height="65"/>
+          <img src="https://raw.githubusercontent.com/microsoft/PowerToys/main/src/runner/svgs/icon.svg" width="65" height="65"/>
           <br><strong>PowerToys</strong>
           <br><sub>Productivity Tools</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social"/>
         </a>
       </td>
     </tr>
@@ -134,6 +137,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/>
           <br><strong>AutoGen</strong>
           <br><sub>Multi-Agent AI</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social"/>
         </a>
       </td>
       <td align="center" width="150">
@@ -141,6 +145,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
           <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65"/>
           <br><strong>vcpkg</strong>
           <br><sub>Package Manager</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/vcpkg?style=social"/>
         </a>
       </td>
       <td align="center" width="150">
@@ -148,6 +153,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
           <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65"/>
           <br><strong>WinGet</strong>
           <br><sub>App Installer</sub>
+          <br><img src="https://img.shields.io/github/stars/microsoft/winget-cli?style=social"/>
         </a>
       </td>
       <td align="center" width="150">
@@ -229,7 +235,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       </td>
       <td align="center" width="200">
         <a href="https://github.com/kubernetes/kops">
-          <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/logo.jpg" width="80" height="80"/>
+          <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/k8s-logo.png" width="80" height="80"/>
           <br><strong>Kops</strong>
           <br><sub>Kubernetes Operations</sub>
           <br><img src="https://img.shields.io/github/stars/kubernetes/kops?style=social"/>
@@ -239,7 +245,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
     <tr>
       <td align="center" width="200">
         <a href="https://github.com/apache/airflow">
-          <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji.png" width="80" height="80"/>
+          <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="80" height="80"/>
           <br><strong>Apache Airflow</strong>
           <br><sub>Workflow Management</sub>
           <br><img src="https://img.shields.io/github/stars/apache/airflow?style=social"/>
@@ -247,7 +253,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       </td>
       <td align="center" width="200">
         <a href="https://github.com/fluxcd/flux2">
-          <img src="https://raw.githubusercontent.com/fluxcd/flux2/main/docs/diagrams/flux-logo.svg" width="80" height="80"/>
+          <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/flux/icon/color/flux-icon-color.svg" width="80" height="80"/>
           <br><strong>Flux</strong>
           <br><sub>GitOps Toolkit</sub>
           <br><img src="https://img.shields.io/github/stars/fluxcd/flux2?style=social"/>
@@ -301,48 +307,14 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <br>
 
-<!-- Impact Dashboard -->
-<div align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-36393F?style=flat"/>
-</div>
-
-### <div align="center">📊 **Contribution Impact Dashboard**</div>
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏆-World%20Class%20Tools-FFD700?style=for-the-badge&labelColor=2D3748"/>
-        <br><sub><strong>Contributing to tools used by millions</strong></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀-Cutting%20Edge%20AI-FF6B6B?style=for-the-badge&labelColor=2D3748"/>
-        <br><sub><strong>Advancing machine learning frameworks</strong></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/☁️-Enterprise%20Infrastructure-4ECDC4?style=for-the-badge&labelColor=2D3748"/>
-        <br><sub><strong>Building scalable cloud solutions</strong></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📚-Knowledge%20Sharing-96CEB4?style=for-the-badge&labelColor=2D3748"/>
-        <br><sub><strong>Educating future developers</strong></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohiuddin-khan-shiam&custom_title=Open%20Source%20Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area_color=bf91f3&title_color=70a5fd&area=true" width="100%"/>
-</div>
-
 <details>
 <summary><div align="center"><img src="https://img.shields.io/badge/🔍%20View%20Detailed%20Technical%20Contributions-Click%20to%20Expand-blueviolet?style=for-the-badge"/></div></summary>
 
 <br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 #### 🛠️ **Microsoft Developer Ecosystem**
 - **Visual Studio Code**: Enhanced IntelliSense, debugging features, and extension API improvements
@@ -359,6 +331,9 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 - **Ultralytics**: YOLO model performance tuning and deployment optimizations
 - **OpenVINO**: Neural network inference acceleration and hardware compatibility
 
+</td>
+<td width="50%" valign="top">
+
 #### ⚡ **Cloud Infrastructure & DevOps**
 - **Kubernetes**: Controller improvements and resource management optimizations
 - **Kops**: Cluster provisioning automation and AWS integration enhancements
@@ -369,6 +344,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 - **The Algorithms**: Python algorithm implementations with comprehensive documentation
 - **Manim**: Mathematical visualization library with enhanced rendering capabilities
 - **Boltz**: Computational biology tools for biomolecular interaction modeling
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://img.shields.io/badge/💡-Innovation%20Through%20Collaboration-orange?style=for-the-badge"/>
@@ -383,6 +362,9 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 </div>
 
 ---
+
+
+
 
 
 
