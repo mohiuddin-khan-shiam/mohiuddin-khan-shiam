@@ -69,23 +69,18 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 
 
-
 ---
 <!-- Open Source Contributions Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=Open%20Source%20Contributions&fontSize=35&fontAlignY=35&desc=Building%20the%20Future%20Together&descAlignY=60&fontColor=ffffff"/>
-</div>
 
-<p align="center">
-  <a name="contributions"></a>
-  <strong style="font-size:2em;">🌟 My Open Source Journey</strong>
+<p align="center" style="font-size:2em; font-weight:bold; margin-bottom:0;">
+  🌟 My Open Source Journey
 </p>
 
-<p align="center">
-  <em>Passionate about contributing to technologies that power millions of developers worldwide</em>
+<p align="center" style="font-style: italic; margin-top: 4px; margin-bottom: 20px;">
+  Passionate about contributing to technologies that power millions of developers worldwide
 </p>
 
-<div align="center">
+<div align="center" style="max-width: 900px; margin: auto;">
   <img src="https://img.shields.io/badge/🏢%20Organizations-11-FF6B6B?style=for-the-badge&labelColor=2D3748&color=FF6B6B"/>
   <img src="https://img.shields.io/badge/🚀%20Major%20Projects-17-4ECDC4?style=for-the-badge&labelColor=2D3748&color=4ECDC4"/>
   <img src="https://img.shields.io/badge/🌍%20Global%20Impact-Millions%20of%20Users-45B7D1?style=for-the-badge&labelColor=2D3748&color=45B7D1"/>
@@ -94,10 +89,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <br>
 
-### 🏢 Microsoft Ecosystem  <img src="https://img.shields.io/badge/7%20Projects-0078D4?style=for-the-badge"/>
+### <div align="center">🏢 Microsoft Ecosystem  <img src="https://img.shields.io/badge/7%20Projects-0078D4?style=for-the-badge"/></div>
 
-<div style="max-width: 900px; margin: auto;">
-  <table style="width: 100%; border-collapse: collapse;">
+<div align="center" style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: auto;">
     <tbody>
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
@@ -105,7 +100,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/vscode" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">VS Code</a> · 
           <span style="color: #999;">Code Editor</span>  
           <br>
@@ -120,7 +115,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://raw.githubusercontent.com/microsoft/terminal/main/res/terminal.ico" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/terminal" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">Terminal</a> · 
           <span style="color: #999;">Command Line</span>  
           <br>
@@ -135,7 +130,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/WSL" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">WSL</a> · 
           <span style="color: #999;">Linux Subsystem</span>  
           <br>
@@ -147,10 +142,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
           <a href="https://github.com/microsoft/PowerToys">
-            <img src="https://raw.githubusercontent.com/microsoft/PowerToys/main/src/runner/svgs/icon.svg" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/microsoft/PowerToys/main/assets/images/icons/PowerToys.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/PowerToys" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">PowerToys</a> · 
           <span style="color: #999;">Productivity Tools</span>  
           <br>
@@ -165,7 +160,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/autogen" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">AutoGen</a> · 
           <span style="color: #999;">Multi-Agent AI</span>  
           <br>
@@ -180,7 +175,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/vcpkg" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">vcpkg</a> · 
           <span style="color: #999;">Package Manager</span>  
           <br>
@@ -195,7 +190,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=powershell" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/microsoft/winget-cli" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">WinGet</a> · 
           <span style="color: #999;">App Installer</span>  
           <br>
@@ -210,10 +205,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <br>
 
-### 🤖 Artificial Intelligence & Machine Learning  <img src="https://img.shields.io/badge/4%20Projects-FF6B35?style=for-the-badge"/>
+### <div align="center">🤖 Artificial Intelligence & Machine Learning  <img src="https://img.shields.io/badge/4%20Projects-FF6B35?style=for-the-badge"/></div>
 
-<div style="max-width: 900px; margin: auto;">
-  <table style="width: 100%; border-collapse: collapse;">
+<div align="center" style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: auto;">
     <tbody>
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
@@ -221,7 +216,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/scikit-learn/scikit-learn" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">scikit-learn</a> · 
           <span style="color: #999;">Machine Learning Library</span>  
           <br>
@@ -236,7 +231,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/keras-team/keras" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">Keras</a> · 
           <span style="color: #999;">Deep Learning Framework</span>  
           <br>
@@ -251,7 +246,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/ultralytics/ultralytics" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">Ultralytics</a> · 
           <span style="color: #999;">YOLO Computer Vision</span>  
           <br>
@@ -266,7 +261,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=opencv" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/openvinotoolkit/openvino" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">OpenVINO</a> · 
           <span style="color: #999;">AI Inference Toolkit</span>  
           <br>
@@ -281,10 +276,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <br>
 
-### ☁️ Cloud Infrastructure & DevOps  <img src="https://img.shields.io/badge/4%20Projects-326CE5?style=for-the-badge"/>
+### <div align="center">☁️ Cloud Infrastructure & DevOps  <img src="https://img.shields.io/badge/4%20Projects-326CE5?style=for-the-badge"/></div>
 
-<div style="max-width: 900px; margin: auto;">
-  <table style="width: 100%; border-collapse: collapse;">
+<div align="center" style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: auto;">
     <tbody>
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
@@ -292,7 +287,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/kubernetes/kubernetes" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Kubernetes</a> · 
           <span style="color: #999;">Container Orchestration</span>  
           <br>
@@ -304,10 +299,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
           <a href="https://github.com/kubernetes/kops">
-            <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/k8s-logo.png" width="60" height="60"/>
+            <img src="https://raw.githubusercontent.com/kubernetes/kops/main/logo/logo-dimension.png" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/kubernetes/kops" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Kops</a> · 
           <span style="color: #999;">Kubernetes Operations</span>  
           <br>
@@ -322,7 +317,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/apache/airflow" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Apache Airflow</a> · 
           <span style="color: #999;">Workflow Management</span>  
           <br>
@@ -337,7 +332,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/flux/icon/color/flux-icon-color.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/fluxcd/flux2" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Flux</a> · 
           <span style="color: #999;">GitOps Toolkit</span>  
           <br>
@@ -352,10 +347,10 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <br>
 
-### 🧬 Research & Education  <img src="https://img.shields.io/badge/3%20Projects-27AE60?style=for-the-badge"/>
+### <div align="center">🧬 Research & Education  <img src="https://img.shields.io/badge/3%20Projects-27AE60?style=for-the-badge"/></div>
 
-<div style="max-width: 900px; margin: auto;">
-  <table style="width: 100%; border-collapse: collapse;">
+<div align="center" style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: auto;">
     <tbody>
       <tr style="border-bottom: 1px solid #444;">
         <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
@@ -363,7 +358,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://skillicons.dev/icons?i=python" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/TheAlgorithms/Python" style="font-weight: 600; font-size: 1.1em; color: #27AE60; text-decoration: none;">The Algorithms</a> · 
           <span style="color: #999;">Educational Algorithms</span>  
           <br>
@@ -378,7 +373,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/ManimCommunity/manim" style="font-weight: 600; font-size: 1.1em; color: #27AE60; text-decoration: none;">Manim</a> · 
           <span style="color: #999;">Mathematical Animation</span>  
           <br>
@@ -393,7 +388,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
           </a>
         </td>
-        <td style="padding: 10px; vertical-align: middle;">
+        <td style="padding: 10px; vertical-align: middle; text-align:center;">
           <a href="https://github.com/jwohlwend/boltz" style="font-weight: 600; font-size: 1.1em; color: #27AE60; text-decoration: none;">Boltz</a> · 
           <span style="color: #999;">Biomolecular Interaction Models</span>  
           <br>
@@ -407,6 +402,7 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 </div>
 
 ---
+
 
 
 
