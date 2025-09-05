@@ -64,6 +64,12 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 
 
+
+
+
+
+
+
 ---
 <!-- Open Source Contributions Section -->
 <div align="center">
@@ -88,280 +94,323 @@ I believe that kindness and new ideas can change the world. I'm excited to meet 
 
 <br>
 
-<!-- Microsoft Ecosystem -->
-<div align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-36393F?style=flat"/>
-</div>
+### 🏢 Microsoft Ecosystem  <img src="https://img.shields.io/badge/7%20Projects-0078D4?style=for-the-badge"/>
 
-### <div align="center">🏢 **Microsoft Ecosystem** <img src="https://img.shields.io/badge/-7%20Projects-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/vscode">
-          <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
-          <br><strong>VS Code</strong>
-          <br><sub>Code Editor</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/vscode?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/terminal">
-          <img src="https://raw.githubusercontent.com/microsoft/terminal/main/res/terminal.ico" width="65" height="65"/>
-          <br><strong>Terminal</strong>
-          <br><sub>Command Line</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/terminal?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/WSL">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65"/>
-          <br><strong>WSL</strong>
-          <br><sub>Linux Subsystem</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/WSL?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/PowerToys">
-          <img src="https://raw.githubusercontent.com/microsoft/PowerToys/main/src/runner/svgs/icon.svg" width="65" height="65"/>
-          <br><strong>PowerToys</strong>
-          <br><sub>Productivity Tools</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/autogen">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/>
-          <br><strong>AutoGen</strong>
-          <br><sub>Multi-Agent AI</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/vcpkg">
-          <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65"/>
-          <br><strong>vcpkg</strong>
-          <br><sub>Package Manager</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/vcpkg?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://github.com/microsoft/winget-cli">
-          <img src="https://skillicons.dev/icons?i=powershell" width="65" height="65"/>
-          <br><strong>WinGet</strong>
-          <br><sub>App Installer</sub>
-          <br><img src="https://img.shields.io/github/stars/microsoft/winget-cli?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Impact-Developer%20Tools-0078D4?style=for-the-badge"/>
-      </td>
-    </tr>
+<div style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tbody>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/vscode">
+            <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/vscode" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">VS Code</a> · 
+          <span style="color: #999;">Code Editor</span>  
+          <br>
+          <small style="color: #bbb;">Visual Studio Code: Enhanced IntelliSense, debugging features, and extension API improvements</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/vscode?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/terminal">
+            <img src="https://raw.githubusercontent.com/microsoft/terminal/main/res/terminal.ico" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/terminal" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">Terminal</a> · 
+          <span style="color: #999;">Command Line</span>  
+          <br>
+          <small style="color: #bbb;">Windows Terminal: Performance optimizations and shell integration enhancements</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/terminal?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/WSL">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/WSL" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">WSL</a> · 
+          <span style="color: #999;">Linux Subsystem</span>  
+          <br>
+          <small style="color: #bbb;">Windows Subsystem for Linux: Cross-platform compatibility and filesystem improvements</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/WSL?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/PowerToys">
+            <img src="https://raw.githubusercontent.com/microsoft/PowerToys/main/src/runner/svgs/icon.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/PowerToys" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">PowerToys</a> · 
+          <span style="color: #999;">Productivity Tools</span>  
+          <br>
+          <small style="color: #bbb;">PowerToys: UI/UX enhancements and new productivity utilities</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/autogen">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/autogen" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">AutoGen</a> · 
+          <span style="color: #999;">Multi-Agent AI</span>  
+          <br>
+          <small style="color: #bbb;">Multi-agent conversation framework optimizations</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/vcpkg">
+            <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/vcpkg" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">vcpkg</a> · 
+          <span style="color: #999;">Package Manager</span>  
+          <br>
+          <small style="color: #bbb;">Package management and dependency resolution improvements</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/vcpkg?style=social"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/microsoft/winget-cli">
+            <img src="https://skillicons.dev/icons?i=powershell" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/microsoft/winget-cli" style="font-weight: 600; font-size: 1.1em; color: #0078D4; text-decoration: none;">WinGet</a> · 
+          <span style="color: #999;">App Installer</span>  
+          <br>
+          <small style="color: #bbb;">Command-line interface enhancements and package discovery</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/microsoft/winget-cli?style=social"/>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
 <br>
 
-<!-- AI & Machine Learning -->
-<div align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-36393F?style=flat"/>
-</div>
+### 🤖 Artificial Intelligence & Machine Learning  <img src="https://img.shields.io/badge/4%20Projects-FF6B35?style=for-the-badge"/>
 
-### <div align="center">🤖 **Artificial Intelligence & Machine Learning** <img src="https://img.shields.io/badge/-4%20Projects-FF6B35?style=flat-square&logo=tensorflow&logoColor=white"/></div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://github.com/scikit-learn/scikit-learn">
-          <img src="https://skillicons.dev/icons?i=sklearn" width="80" height="80"/>
-          <br><strong>scikit-learn</strong>
-          <br><sub>Machine Learning Library</sub>
-          <br><img src="https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/keras-team/keras">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="80" height="80"/>
-          <br><strong>Keras</strong>
-          <br><sub>Deep Learning Framework</sub>
-          <br><img src="https://img.shields.io/github/stars/keras-team/keras?style=social"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://github.com/ultralytics/ultralytics">
-          <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="80" height="80"/>
-          <br><strong>Ultralytics</strong>
-          <br><sub>YOLO Computer Vision</sub>
-          <br><img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/openvinotoolkit/openvino">
-          <img src="https://skillicons.dev/icons?i=opencv" width="80" height="80"/>
-          <br><strong>OpenVINO</strong>
-          <br><sub>AI Inference Toolkit</sub>
-          <br><img src="https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social"/>
-        </a>
-      </td>
-    </tr>
+<div style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tbody>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/scikit-learn/scikit-learn">
+            <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/scikit-learn/scikit-learn" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">scikit-learn</a> · 
+          <span style="color: #999;">Machine Learning Library</span>  
+          <br>
+          <small style="color: #bbb;">Algorithm optimization, documentation, and new estimator implementations</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/keras-team/keras">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/keras-team/keras" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">Keras</a> · 
+          <span style="color: #999;">Deep Learning Framework</span>  
+          <br>
+          <small style="color: #bbb;">Model architecture improvements and training pipeline enhancements</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/keras-team/keras?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/ultralytics/ultralytics">
+            <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/ultralytics/ultralytics" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">Ultralytics</a> · 
+          <span style="color: #999;">YOLO Computer Vision</span>  
+          <br>
+          <small style="color: #bbb;">YOLO model performance tuning and deployment optimizations</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/openvinotoolkit/openvino">
+            <img src="https://skillicons.dev/icons?i=opencv" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/openvinotoolkit/openvino" style="font-weight: 600; font-size: 1.1em; color: #FF6B35; text-decoration: none;">OpenVINO</a> · 
+          <span style="color: #999;">AI Inference Toolkit</span>  
+          <br>
+          <small style="color: #bbb;">Neural network inference acceleration and hardware compatibility</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social"/>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
 <br>
 
-<!-- Cloud & DevOps -->
-<div align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-36393F?style=flat"/>
-</div>
+### ☁️ Cloud Infrastructure & DevOps  <img src="https://img.shields.io/badge/4%20Projects-326CE5?style=for-the-badge"/>
 
-### <div align="center">☁️ **Cloud Infrastructure & DevOps** <img src="https://img.shields.io/badge/-4%20Projects-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://github.com/kubernetes/kubernetes">
-          <img src="https://skillicons.dev/icons?i=kubernetes" width="80" height="80"/>
-          <br><strong>Kubernetes</strong>
-          <br><sub>Container Orchestration</sub>
-          <br><img src="https://img.shields.io/github/stars/kubernetes/kubernetes?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/kubernetes/kops">
-          <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/k8s-logo.png" width="80" height="80"/>
-          <br><strong>Kops</strong>
-          <br><sub>Kubernetes Operations</sub>
-          <br><img src="https://img.shields.io/github/stars/kubernetes/kops?style=social"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://github.com/apache/airflow">
-          <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="80" height="80"/>
-          <br><strong>Apache Airflow</strong>
-          <br><sub>Workflow Management</sub>
-          <br><img src="https://img.shields.io/github/stars/apache/airflow?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/fluxcd/flux2">
-          <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/flux/icon/color/flux-icon-color.svg" width="80" height="80"/>
-          <br><strong>Flux</strong>
-          <br><sub>GitOps Toolkit</sub>
-          <br><img src="https://img.shields.io/github/stars/fluxcd/flux2?style=social"/>
-        </a>
-      </td>
-    </tr>
+<div style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tbody>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/kubernetes/kubernetes">
+            <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/kubernetes/kubernetes" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Kubernetes</a> · 
+          <span style="color: #999;">Container Orchestration</span>  
+          <br>
+          <small style="color: #bbb;">Controller improvements and resource management optimizations</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/kubernetes/kubernetes?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/kubernetes/kops">
+            <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/k8s-logo.png" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/kubernetes/kops" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Kops</a> · 
+          <span style="color: #999;">Kubernetes Operations</span>  
+          <br>
+          <small style="color: #bbb;">Cluster provisioning automation and AWS integration enhancements</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/kubernetes/kops?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/apache/airflow">
+            <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/apache/airflow" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Apache Airflow</a> · 
+          <span style="color: #999;">Workflow Management</span>  
+          <br>
+          <small style="color: #bbb;">DAG scheduling improvements and operator implementations</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/apache/airflow?style=social"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/fluxcd/flux2">
+            <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/flux/icon/color/flux-icon-color.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/fluxcd/flux2" style="font-weight: 600; font-size: 1.1em; color: #326CE5; text-decoration: none;">Flux</a> · 
+          <span style="color: #999;">GitOps Toolkit</span>  
+          <br>
+          <small style="color: #bbb;">GitOps workflow enhancements and Helm integration</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/fluxcd/flux2?style=social"/>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
 <br>
 
-<!-- Research & Education -->
-<div align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-36393F?style=flat"/>
-</div>
+### 🧬 Research & Education  <img src="https://img.shields.io/badge/3%20Projects-27AE60?style=for-the-badge"/>
 
-### <div align="center">🧬 **Research & Education** <img src="https://img.shields.io/badge/-3%20Projects-27AE60?style=flat-square&logo=academia&logoColor=white"/></div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://github.com/TheAlgorithms/Python">
-          <img src="https://skillicons.dev/icons?i=python" width="80" height="80"/>
-          <br><strong>The Algorithms</strong>
-          <br><sub>Educational Algorithms</sub>
-          <br><img src="https://img.shields.io/github/stars/TheAlgorithms/Python?style=social"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/ManimCommunity/manim">
-          <img src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png" width="80" height="80"/>
-          <br><strong>Manim</strong>
-          <br><sub>Mathematical Animation</sub>
-          <br><img src="https://img.shields.io/github/stars/ManimCommunity/manim?style=social"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="400" colspan="2">
-        <a href="https://github.com/jwohlwend/boltz">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
-          <br><strong>Boltz</strong>
-          <br><sub>Biomolecular Interaction Models</sub>
-          <br><img src="https://img.shields.io/github/stars/jwohlwend/boltz?style=social"/>
-        </a>
-      </td>
-    </tr>
+<div style="max-width: 900px; margin: auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tbody>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/TheAlgorithms/Python">
+            <img src="https://skillicons.dev/icons?i=python" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/TheAlgorithms/Python" style="font-weight: 600; font-size: 1.1em; color: #27AE60; text-decoration: none;">The Algorithms</a> · 
+          <span style="color: #999;">Educational Algorithms</span>  
+          <br>
+          <small style="color: #bbb;">Python algorithm implementations with comprehensive documentation</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/TheAlgorithms/Python?style=social"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #444;">
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/ManimCommunity/manim">
+            <img src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/ManimCommunity/manim" style="font-weight: 600; font-size: 1.1em; color: #27AE60; text-decoration: none;">Manim</a> · 
+          <span style="color: #999;">Mathematical Animation</span>  
+          <br>
+          <small style="color: #bbb;">Mathematical visualization library with enhanced rendering capabilities</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/ManimCommunity/manim?style=social"/>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 80px; text-align: center; vertical-align: middle; padding: 10px;">
+          <a href="https://github.com/jwohlwend/boltz">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+          </a>
+        </td>
+        <td style="padding: 10px; vertical-align: middle;">
+          <a href="https://github.com/jwohlwend/boltz" style="font-weight: 600; font-size: 1.1em; color: #27AE60; text-decoration: none;">Boltz</a> · 
+          <span style="color: #999;">Biomolecular Interaction Models</span>  
+          <br>
+          <small style="color: #bbb;">Computational biology tools for biomolecular interaction modeling</small>
+          <br>
+          <img src="https://img.shields.io/github/stars/jwohlwend/boltz?style=social"/>
+        </td>
+      </tr>
+    </tbody>
   </table>
-</div>
-
-<br>
-
-<details>
-<summary><div align="center"><img src="https://img.shields.io/badge/🔍%20View%20Detailed%20Technical%20Contributions-Click%20to%20Expand-blueviolet?style=for-the-badge"/></div></summary>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🛠️ **Microsoft Developer Ecosystem**
-- **Visual Studio Code**: Enhanced IntelliSense, debugging features, and extension API improvements
-- **Windows Terminal**: Performance optimizations and shell integration enhancements  
-- **WSL (Windows Subsystem for Linux)**: Cross-platform compatibility and filesystem improvements
-- **PowerToys**: UI/UX enhancements and new productivity utilities
-- **AutoGen**: Multi-agent conversation framework optimizations
-- **vcpkg**: Package management and dependency resolution improvements
-- **WinGet**: Command-line interface enhancements and package discovery
-
-#### 🧠 **AI & Machine Learning Contributions**
-- **scikit-learn**: Algorithm optimization, documentation, and new estimator implementations
-- **Keras**: Model architecture improvements and training pipeline enhancements
-- **Ultralytics**: YOLO model performance tuning and deployment optimizations
-- **OpenVINO**: Neural network inference acceleration and hardware compatibility
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ **Cloud Infrastructure & DevOps**
-- **Kubernetes**: Controller improvements and resource management optimizations
-- **Kops**: Cluster provisioning automation and AWS integration enhancements
-- **Apache Airflow**: DAG scheduling improvements and operator implementations
-- **Flux CD**: GitOps workflow enhancements and Helm integration
-
-#### 🎓 **Research & Educational Impact**
-- **The Algorithms**: Python algorithm implementations with comprehensive documentation
-- **Manim**: Mathematical visualization library with enhanced rendering capabilities
-- **Boltz**: Computational biology tools for biomolecular interaction modeling
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡-Innovation%20Through%20Collaboration-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌟-Quality%20Code%20Reviews-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📈-Continuous%20Improvement-green?style=for-the-badge"/>
-</div>
-
-</details>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 </div>
 
 ---
+
+
+
+
 
 
 
