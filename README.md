@@ -6,8 +6,9 @@
 
 <!-- Header Section: Welcome banner with animated text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Let's%20Innovate%20Together!&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Let's%20Innovate%20Together!&descAlignY=60"/>
 </p>
+
 
 
 
